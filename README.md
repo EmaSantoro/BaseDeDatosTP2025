@@ -1,5 +1,14 @@
-# BD Grupo 35
+# Entrega Final
 
-Este proyecto involucra una base de datos en SQL. Su desarrollo y diagrama.
+### BDgrupo
+**Número de grupo:** 35
 
-## Cómo ejecutar
+### Integrantes
+
+- **Emanuel Santoro** — 2141188 — Curso K3014  
+- **Fausto Chattas** — 2212500 — Curso K3114  
+- **Juliana Petito** — 2139984 — Curso K3051  
+- **Franco Tenaglia** — 2132497 — Curso K3114  
+
+### Mail del responsable del grupo
+- emsantoro@frba.utn.edu.ar
